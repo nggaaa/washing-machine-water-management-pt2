@@ -1,3 +1,4 @@
+<img src="https://drive.google.com/uc?export=view&id=1ZntvTPCm1i3YkBFpunqn1Ji9imxbYuJr" alt="" width="500"><br>
 # Washing Machine Water Management #2
 Previously I had made a Washing Machine water management project. At this time I upgraded so that it has a full and half fill feature.
 This is the source code.
