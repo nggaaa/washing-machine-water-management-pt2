@@ -1,6 +1,19 @@
 # Washing Machine Water Management #2
 Previously I had made a Washing Machine water management project. At this time I upgraded so that it has a full and half fill feature.
 This is the source code.
+
+### Component
+- Arduino (Uno, Pro mini, Nano)
+- LCD (Im using I2C)
+- Relay (For turn on solenoid)
+- Power Supply (I'm using 5V)
+- Buzzer Active
+- Flow Sensor
+- Box (Optional)
+- Button (Optional if you using box) for reset button
+- Switch for change mode
+
+
 ```cpp
 
 #include <Wire.h>
