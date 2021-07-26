@@ -132,7 +132,7 @@ void setup()
   pinMode(relay, OUTPUT);
   pinMode(change, INPUT_PULLUP);
   digitalWrite(relay, LOW);
-  for (int countdown = 0; countdown <= 10; detik++) {
+  for (int countdown = 10; countdown =< 0; countdown--) {
     lcd.setCursor(0, 0);
     lcd.print("Countdown: ");
     lcd.print(countdown);
